@@ -60,7 +60,9 @@ body {
   border-radius: 6px;
   transition: background-color 0.2s;
 }
-.menu a:hover,
+.menu a:hover{
+  background-color: #2E3B48;
+}
 .menu a.ativo {
   background-color: var(--cor-primaria);
   color: #ffffff;

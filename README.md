@@ -22,8 +22,6 @@ Template inicial da disciplina **Administração de Websites** (Curso Técnico e
 3. No repositório, acesse **Settings > Pages**.
 4. Em **Source**, selecione `Deploy from a branch`, escolha a branch `main` e a pasta `/ (root)` e clique em **Save**.
 5. Aguarde cerca de 1 minuto e acesse o link gerado (`https://seu-usuario.github.io/viva-sua-profissao/`).
-
 ## Regras de Ouro para Não Quebrar o Site
-
 - **Nunca** use barra `/` no início de links ou imagens (use `css/style.css` e não `/css/style.css`).
 - Nomeie imagens e arquivos sempre em **letras minúsculas, sem espaços e sem acentos** (ex.: `banner-principal.png`).
