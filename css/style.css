@@ -5,14 +5,14 @@
    ========================================================= */
 
 :root {
-  --cor-primaria: #1d4ed8;      /* Azul principal (mude para a cor da profissão!) */
-  --cor-primaria-escura: #1e3a8a;
-  --cor-destaque: #0ea5e9;
-  --cor-fundo: #ffffff;
-  --cor-fundo-suave: #f1f5f9;
-  --cor-texto: #1e293b;
-  --cor-texto-suave: #475569;
-  --cor-borda: #cbd5e1;
+  --cor-primaria: #3E9B83;      /* Azul principal (mude para a cor da profissão!) */
+  --cor-primaria-escura: #1F5E50;
+  --cor-destaque: #E0A94F;
+  --cor-fundo: #12181F;
+  --cor-fundo-suave: #1B242E;
+  --cor-texto: #D5DBE0;
+  --cor-texto-suave: #8D99A6;
+  --cor-borda: #2E3B48;
 }
 
 /* Reset básico */
@@ -217,7 +217,7 @@ body {
 }
 
 .card {
-  background-color: #ffffff;
+  background-color: #232A40;
   border: 1px solid var(--cor-borda);
   border-radius: 10px;
   padding: 22px;
